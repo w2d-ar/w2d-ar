@@ -4,7 +4,7 @@
     </a> 
 </div>
 
-## We specialize in the creation of innovative and avant -garde web solutions for companies of all sizes. Founded in the principles of creativity, efficiency and reliability, we commit ourselves to offer adapted high quality software to meet the unique needs and objectives of each client.
+### We specialize in the creation of innovative and avant -garde web solutions for companies of all sizes. Founded in the principles of creativity, efficiency and reliability, we commit ourselves to offer adapted high quality software to meet the unique needs and objectives of each client.
 
 <br>
 <div align="center" style="display: inline-block;">
