@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://w2d.site" target="_blank"></s>
-        <img  src="./profile/w2d-baclground.png" alt="banner" />
+        <img  src="./w2d-baclground.png" alt="banner" />
     </a> 
 </div>
 
